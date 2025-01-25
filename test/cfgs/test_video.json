@@ -1,0 +1,20 @@
+{
+  "labels_path": "datasets/CCTSDB/GroundTruth/groundtruth0000-9999.txt",
+  "loader": "gtsrb2tt100k",
+  "encoder_file": "model_files/best_encoders/new_2_student_gtsrb2tt100k_encoder_s1.h5",
+  "video_path": "output_videos",
+  "scenarios": [
+    {
+      "scenarioID": 4,
+      "path": "image8000-8999",
+      "startFrame": 7187,
+      "numberFrame": 778
+    }
+  ],
+  "bbox_convert_dict": {
+    "x_min": "float",
+    "y_min": "float",
+    "x_max": "float",
+    "y_max": "float"
+  }
+}

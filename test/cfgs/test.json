@@ -1,0 +1,7 @@
+{
+    "backbone":"densenet",
+    "test": "gtsrb2tt100k",
+    "batch_size":128,
+    "device":"gpu",
+    "distance":"euclidean"
+}

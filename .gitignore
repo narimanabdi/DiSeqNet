@@ -1,0 +1,30 @@
+# ignore pycahce and ipython cache
+__pycache__/
+.ipynb_checkpoints/
+
+# ignore dataset folder
+datasets/
+
+# ignore model files
+model_files/
+
+#ignore image files
+*.png
+
+#ignore H5 files
+*.h5
+
+#ignore compressed files
+*.tar
+*.tar.gz
+*.zip
+*.rar
+
+#ignore jupyter notebook files
+*.ipynb
+
+#ignore pycharme idea
+.idea
+
+#ignore video files
+*.avi
